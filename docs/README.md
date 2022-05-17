@@ -16,7 +16,7 @@ socials:
     icon: "/icons/email.svg"
     link: eric.yuan.cc@gmail.com
 
-cv: TODO
+cv: "/CV/"
 bio: MSCS Student at UC Davis
 email: eric.yuan.cc@gmail.com
 ---
