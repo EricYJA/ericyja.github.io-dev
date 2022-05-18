@@ -1,9 +1,8 @@
 ---
-title: Link
-layout: link
+sidebarDepth: 2
 ---
 
-# UC Davis
+## UC Davis
 
 [UC Davis Student Portal](https://my.ucdavis.edu/)
 
@@ -11,13 +10,13 @@ layout: link
 
 [UC Davis iGlobal](https://iglobal.ucdavis.edu/)
 
-# CUHK(SZ)
+## CUHK(SZ)
 
 [CUHK(SZ) Official Website](http://www.cuhk.edu.cn/)
 
 [CUHK(SZ) Library Website](https://library.cuhk.edu.cn)
 
-# Tools
+## Tools
 
 [UML Tool - PressOn](https://www.processon.com/)
 
@@ -29,7 +28,7 @@ layout: link
 
 [Currency - Xe](https://www.xe.com)
 
-# Communities
+## Communities
 
 [Headphone - Soomal](http://www.soomal.com)
 
@@ -38,7 +37,7 @@ layout: link
 [Photography - DPreview](https://www.dpreview.com)
 
 
-# Technology
+## Technology
 
 [Network/Routing - Enshan](https://www.right.com.cn/forum/)
 
