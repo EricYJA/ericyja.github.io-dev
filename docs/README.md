@@ -26,30 +26,37 @@ email: eric.yuan.cc@gmail.com
 ## About Me
 
 Currently a MSCS Student in UC Davis.
-Interested in High Performance Computing, Computer Graphics. 
-Passed the National Uniform Legal Profession Qualification Examination hold by the Ministry of Justice of the People's Republic of China.
+Interested in High Performance Computing, Computer Graphics. Looking for Research Opportunities related to parallel computing and distributed computing, especially with GPU involved.
 
 
 ## News
 
-TODO
+Taking courses on **Computer Graphics-Digital Fabrication** and **Computer Networks**
 
 
 ## Education & Experiences
 
-TODO
+### Undergraduate at The Chinese University of Hong Kong
+- Coach undergraduate student joining the ASC(Asia Supercomputer Community) Student Supercomputer Challenge
+  - Optimize industrial software using parallel intrrerface such as MPI, OpenMP, PThread
+  - Set up the multi-socket cluster and find the optimal confuguration using HPL benchmark. 
+- Teaching Assistant on Operating System
+  - Reformed the assignment code base for better simulating the memory page swap using the CUDA
+  - Implemented automated grading tools for better efficiency
 
-
-## Projects
-
-
-[→ Full list](/projects/)
-
-TODO
+### Exchange at UC Berkeley
+- Coursed based program under EECS department
+  - CS184 Computer Graphics - [Volume Rendering Using Multiple Layers of CT Scans](https://timzrz.github.io/CS184-final-project/final.html)
+  - MATH170 Mathematical Methods For Optimization 
+  - CS170 Efficient Algorithms and Intractable Problems
+  - CS61B Data Structures
 
 
 ## Awards & Honors
 
+- Legal professional qualification certificate by The Ministry of Justice of the People's Republic of China
+- Certificate On FUNDAMENTALS OF ACCELERATED COMPUTING WITH CUDA C/C++ by Nvidia
+- Undergraduate Dean's List Award 2018-2019 and 2019-2020
 
 
 <!-- Custom style for this page -->
@@ -93,5 +100,4 @@ TODO
         img 
           width 100%
           max-width 400px
-
 </style>

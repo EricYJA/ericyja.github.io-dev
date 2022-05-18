@@ -3,13 +3,19 @@ title: Link
 layout: link
 ---
 
+# UC Davis
+
+[UC Davis Student Portal](https://my.ucdavis.edu/)
+
+[UC Davis Health](https://hem.ucdavis.edu/)
+
+[UC Davis iGlobal](https://iglobal.ucdavis.edu/)
+
 # CUHK(SZ)
 
 [CUHK(SZ) Official Website](http://www.cuhk.edu.cn/)
 
 [CUHK(SZ) Library Website](https://library.cuhk.edu.cn)
-
-[CUHK(SZ) Student Portal](http://i.cuhk.edu.cn/)
 
 # Tools
 
