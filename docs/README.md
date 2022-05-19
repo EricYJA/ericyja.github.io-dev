@@ -38,16 +38,16 @@ Taking courses on **Computer Graphics-Digital Fabrication** and **Computer Netwo
 
 ### Undergraduate at The Chinese University of Hong Kong
 - Coach undergraduate student joining the ASC(Asia Supercomputer Community) Student Supercomputer Challenge
-  - Optimize industrial software using parallel intrrerface such as MPI, OpenMP, PThread
-  - Set up the multi-socket cluster and find the optimal confuguration using HPL benchmark. 
+  - Optimized industrial software using parallel intrrerface such as MPI, OpenMP, PThread
+  - Set up the multi-socket cluster and find the optimal confuguration using HPL benchmark
 - Teaching Assistant on Operating System
   - Reformed the assignment code base for better simulating the memory page swap using the CUDA
   - Implemented automated grading tools for better efficiency
 
 ### Exchange at UC Berkeley
 - Coursed based program under EECS department
-  - CS184 Computer Graphics - [Volume Rendering Using Multiple Layers of CT Scans](https://timzrz.github.io/CS184-final-project/final.html)
-  - MATH170 Mathematical Methods For Optimization 
+  - CS184 Computer Graphics - [Final Project](/projects/)
+  - MATH170 Mathematical Methods For Optimization
   - CS170 Efficient Algorithms and Intractable Problems
   - CS61B Data Structures
 

@@ -1,6 +1,6 @@
 <template>
   <div class="about-card">
-    <object data="/Yuan_Changcheng_CV.pdf" type="application/pdf" width=95% height="950px">
+    <object data="/Yuan_Changcheng_CV.pdf" type="application/pdf" width=97% height=950px>
       <embed src="/Yuan_Changcheng_CV.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it.</p>
       </embed>
@@ -32,7 +32,7 @@ export default {
   position relative
   top -75px
   padding-top 50px
-  padding-bottom 50px
+  padding-bottom 25px
   padding-left -300px
   background #fff
   box-shadow 0 4px 8px 0 rgba(0,0,0,0.2);
